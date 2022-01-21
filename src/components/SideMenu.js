@@ -7,7 +7,7 @@ function SideMenu() {
       <NavLink to='naukaschools'>Научные школы</NavLink>
       <NavLink to='events'>Мероприятия</NavLink>
       <NavLink to='publication'>Издания</NavLink>
-      <NavLink to='predmetschools'>Технологии</NavLink>
+      <NavLink to='predmetschools'>Предметные школы</NavLink>
       <NavLink to='achievements'>Достижения</NavLink>
       <NavLink to='contact'>Контакты</NavLink>
     </div>

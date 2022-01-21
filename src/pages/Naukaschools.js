@@ -10,6 +10,8 @@ import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/autoplay';
 
+import vestnik from '../img/vestnik.jpg';
+
 function Naukaschools() {
   return (
     <div className='main-page'>
@@ -30,7 +32,7 @@ function Naukaschools() {
         }}
       >
         <SwiperSlide>
-          <img src='' alt='vestnik' className='slide' />
+          <img src={vestnik} alt='vestnik' className='slide' />
         </SwiperSlide>
       </Swiper>
     </div>
