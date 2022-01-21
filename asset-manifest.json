@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gsgunauka/static/css/main.35fba717.css",
+    "main.js": "/gsgunauka/static/js/main.a288aa75.js",
+    "static/media/main-nauka-4.jpg": "/gsgunauka/static/media/main-nauka-4.97dc0a2852c2485c0c10.jpg",
+    "static/media/main-nauka-6.jpg": "/gsgunauka/static/media/main-nauka-6.acd3bf8c078456b89579.jpg",
+    "static/media/main-nauka-8.jpg": "/gsgunauka/static/media/main-nauka-8.8a13d2a0a7275e76e527.jpg",
+    "static/media/main-nauka-2.jpg": "/gsgunauka/static/media/main-nauka-2.291d886fb1e44fad09c0.jpg",
+    "static/media/main-nauka-5.jpg": "/gsgunauka/static/media/main-nauka-5.73721d8d19b738955ed3.jpg",
+    "static/media/main-nauka-7.jpg": "/gsgunauka/static/media/main-nauka-7.b035035517a61d3930d3.jpg",
+    "static/media/gsgu-logo.png": "/gsgunauka/static/media/gsgu-logo.6c13ad215bb4c18d3ca1.png",
+    "static/media/main-nauka-1.jpg": "/gsgunauka/static/media/main-nauka-1.b6b2e0b0748e3fcc71bf.jpg",
+    "static/media/main-nauka-3.jpg": "/gsgunauka/static/media/main-nauka-3.154a3be530112262cd39.jpg",
+    "index.html": "/gsgunauka/index.html",
+    "main.35fba717.css.map": "/gsgunauka/static/css/main.35fba717.css.map",
+    "main.a288aa75.js.map": "/gsgunauka/static/js/main.a288aa75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35fba717.css",
+    "static/js/main.a288aa75.js"
+  ]
+}
