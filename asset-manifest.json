@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gsgunauka/static/css/main.809cc84e.css",
-    "main.js": "/gsgunauka/static/js/main.06740679.js",
+    "main.js": "/gsgunauka/static/js/main.b595dbb0.js",
     "static/media/main-nauka-4.jpg": "/gsgunauka/static/media/main-nauka-4.97dc0a2852c2485c0c10.jpg",
     "static/media/main-nauka-6.jpg": "/gsgunauka/static/media/main-nauka-6.acd3bf8c078456b89579.jpg",
     "static/media/main-nauka-8.jpg": "/gsgunauka/static/media/main-nauka-8.8a13d2a0a7275e76e527.jpg",
@@ -14,10 +14,10 @@
     "static/media/main-nauka-3.jpg": "/gsgunauka/static/media/main-nauka-3.154a3be530112262cd39.jpg",
     "index.html": "/gsgunauka/index.html",
     "main.809cc84e.css.map": "/gsgunauka/static/css/main.809cc84e.css.map",
-    "main.06740679.js.map": "/gsgunauka/static/js/main.06740679.js.map"
+    "main.b595dbb0.js.map": "/gsgunauka/static/js/main.b595dbb0.js.map"
   },
   "entrypoints": [
     "static/css/main.809cc84e.css",
-    "static/js/main.06740679.js"
+    "static/js/main.b595dbb0.js"
   ]
 }
