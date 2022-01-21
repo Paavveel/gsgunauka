@@ -29,9 +29,9 @@ function Naukaschools() {
           type: 'fraction',
         }}
       >
-        {/* <SwiperSlide>
-          <img src={} alt='vestnik' className='slide' />
-        </SwiperSlide> */}
+        <SwiperSlide>
+          <img src='' alt='vestnik' className='slide' />
+        </SwiperSlide>
       </Swiper>
     </div>
   );
