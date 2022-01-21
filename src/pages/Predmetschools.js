@@ -1,11 +1,7 @@
 import React from 'react';
 
 function Predmetschools() {
-  return (
-    <div>
-      <h1>Projects</h1>
-    </div>
-  );
+  return <div className='main-page'></div>;
 }
 
 export default Predmetschools;
