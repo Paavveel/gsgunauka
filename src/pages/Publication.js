@@ -11,6 +11,7 @@ import 'swiper/css/pagination';
 import 'swiper/css/autoplay';
 
 import vestnik from '../img/vestnik.jpg';
+import nachalo from '../img/nachalo.jpg';
 
 function Publication() {
   return (
@@ -21,10 +22,10 @@ function Publication() {
         loop={true}
         slidesPerView={1}
         speed={1000}
-        // autoplay={{
-        //   delay: 5000,
-        //   disableOnInteraction: false,
-        // }}
+        autoplay={{
+          delay: 5000,
+          disableOnInteraction: true,
+        }}
         spaceBetween={30}
         navigation={true}
         pagination={{
@@ -33,6 +34,9 @@ function Publication() {
       >
         <SwiperSlide>
           <img src={vestnik} alt='vestnik' className='slide' />
+        </SwiperSlide>
+        <SwiperSlide>
+          <img src={nachalo} alt='nachalo' className='slide' />
         </SwiperSlide>
       </Swiper>
     </div>

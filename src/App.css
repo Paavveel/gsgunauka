@@ -67,4 +67,32 @@
   height: calc(100vh - 300px);
   margin-left: 10%;
   margin-top: 50px;
+  object-fit: contain;
+}
+
+.page-titles {
+  display: flex;
+  flex-direction: column;
+}
+
+.page-titles a {
+  font-size: 60px;
+  width: fit-content;
+  margin-bottom: 10px;
+}
+
+.predmetschool-container {
+  display: flex;
+  gap: 6%;
+}
+.predmetschool-container img {
+  object-fit: contain;
+}
+.predmetschool-container a {
+  font-size: 45px;
+}
+
+.predmetschool-container .predmetschool-container__right {
+  display: flex;
+  flex-direction: column;
 }
