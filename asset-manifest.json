@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gsgunauka/static/css/main.1cd70955.css",
-    "main.js": "/gsgunauka/static/js/main.118afa43.js",
+    "main.js": "/gsgunauka/static/js/main.5f475fd7.js",
     "static/media/main-nauka-4.jpg": "/gsgunauka/static/media/main-nauka-4.97dc0a2852c2485c0c10.jpg",
     "static/media/main-nauka-6.jpg": "/gsgunauka/static/media/main-nauka-6.acd3bf8c078456b89579.jpg",
     "static/media/main-nauka-8.jpg": "/gsgunauka/static/media/main-nauka-8.8a13d2a0a7275e76e527.jpg",
@@ -13,13 +13,14 @@
     "static/media/main-nauka-3.jpg": "/gsgunauka/static/media/main-nauka-3.154a3be530112262cd39.jpg",
     "static/media/vestnik.jpg": "/gsgunauka/static/media/vestnik.bbaaaa1f5b249f34fcad.jpg",
     "static/media/nachalo.jpg": "/gsgunauka/static/media/nachalo.ce5180b6117732c9a79b.jpg",
+    "static/media/contacts.jpg": "/gsgunauka/static/media/contacts.bc6531edf78eba6f09d4.jpg",
     "static/media/leftsideimg.jpg": "/gsgunauka/static/media/leftsideimg.8d41f132d47042f9f4da.jpg",
     "index.html": "/gsgunauka/index.html",
     "main.1cd70955.css.map": "/gsgunauka/static/css/main.1cd70955.css.map",
-    "main.118afa43.js.map": "/gsgunauka/static/js/main.118afa43.js.map"
+    "main.5f475fd7.js.map": "/gsgunauka/static/js/main.5f475fd7.js.map"
   },
   "entrypoints": [
     "static/css/main.1cd70955.css",
-    "static/js/main.118afa43.js"
+    "static/js/main.5f475fd7.js"
   ]
 }
