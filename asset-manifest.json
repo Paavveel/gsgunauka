@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gsgunauka/static/css/main.1cd70955.css",
-    "main.js": "/gsgunauka/static/js/main.5f475fd7.js",
+    "main.js": "/gsgunauka/static/js/main.5a873a56.js",
     "static/media/main-nauka-4.jpg": "/gsgunauka/static/media/main-nauka-4.97dc0a2852c2485c0c10.jpg",
     "static/media/main-nauka-6.jpg": "/gsgunauka/static/media/main-nauka-6.acd3bf8c078456b89579.jpg",
     "static/media/main-nauka-8.jpg": "/gsgunauka/static/media/main-nauka-8.8a13d2a0a7275e76e527.jpg",
@@ -10,17 +10,45 @@
     "static/media/main-nauka-7.jpg": "/gsgunauka/static/media/main-nauka-7.b035035517a61d3930d3.jpg",
     "static/media/gsgu-logo.png": "/gsgunauka/static/media/gsgu-logo.6c13ad215bb4c18d3ca1.png",
     "static/media/main-nauka-1.jpg": "/gsgunauka/static/media/main-nauka-1.b6b2e0b0748e3fcc71bf.jpg",
+    "static/media/18.jpg": "/gsgunauka/static/media/18.7a456e443ff7e2503019.jpg",
     "static/media/main-nauka-3.jpg": "/gsgunauka/static/media/main-nauka-3.154a3be530112262cd39.jpg",
+    "static/media/9.jpg": "/gsgunauka/static/media/9.3f195b55cb57843cd495.jpg",
+    "static/media/6.jpg": "/gsgunauka/static/media/6.31ec5cd78bd57892ee7c.jpg",
+    "static/media/14.jpg": "/gsgunauka/static/media/14.7ee81341cb7ddf0137b5.jpg",
+    "static/media/5.jpg": "/gsgunauka/static/media/5.70302f5c03ab69cfb6c3.jpg",
+    "static/media/4.jpg": "/gsgunauka/static/media/4.0fb22348bc235c164ec6.jpg",
     "static/media/vestnik.jpg": "/gsgunauka/static/media/vestnik.bbaaaa1f5b249f34fcad.jpg",
+    "static/media/19.jpg": "/gsgunauka/static/media/19.27fe5eb8b367042ebca6.jpg",
+    "static/media/8.jpg": "/gsgunauka/static/media/8.e28b3ec8847bb07dcf20.jpg",
+    "static/media/3.jpg": "/gsgunauka/static/media/3.c51397821ee635bcdc3a.jpg",
+    "static/media/Педагогика и психология.jpg": "/gsgunauka/static/media/Педагогика и психология.a8910f7b1e1277c8127f.jpg",
+    "static/media/Мазуров 2.jpg": "/gsgunauka/static/media/Мазуров 2.fb40202693db0a978345.jpg",
+    "static/media/20.jpg": "/gsgunauka/static/media/20.7109bf452662a78d323d.jpg",
+    "static/media/16.jpg": "/gsgunauka/static/media/16.094f78e7d6653f20b591.jpg",
+    "static/media/15.jpg": "/gsgunauka/static/media/15.a4ab6671b89f6092c053.jpg",
+    "static/media/17.jpg": "/gsgunauka/static/media/17.39e40e2fa0e0ca950806.jpg",
+    "static/media/21.jpg": "/gsgunauka/static/media/21.58222bcfb66d5b9d1e36.jpg",
+    "static/media/10.jpg": "/gsgunauka/static/media/10.99826a4555c31baef3b2.jpg",
+    "static/media/13.jpg": "/gsgunauka/static/media/13.ae4bc3e2f2c987d1349c.jpg",
     "static/media/nachalo.jpg": "/gsgunauka/static/media/nachalo.ce5180b6117732c9a79b.jpg",
+    "static/media/Лексин 2.jpg": "/gsgunauka/static/media/Лексин 2.2d0d0dae3c11c14d318f.jpg",
+    "static/media/Экономика Столярова.jpg": "/gsgunauka/static/media/Экономика Столярова.6196cd6f978459026561.jpg",
+    "static/media/11.jpg": "/gsgunauka/static/media/11.582bb60e682338a4e257.jpg",
+    "static/media/7.jpg": "/gsgunauka/static/media/7.41f8b4d1ce553aaa1388.jpg",
+    "static/media/1.jpg": "/gsgunauka/static/media/1.92b0f282504be727dd1b.jpg",
+    "static/media/Рязанцев.jpg": "/gsgunauka/static/media/Рязанцев.55b7e0740d62f11d594a.jpg",
+    "static/media/2.jpg": "/gsgunauka/static/media/2.ea50d861f3661e424277.jpg",
+    "static/media/Прокудин.jpg": "/gsgunauka/static/media/Прокудин.4a2b8ac8eda8b66185eb.jpg",
+    "static/media/Викторович.jpg": "/gsgunauka/static/media/Викторович.b1d22d6740eae1418405.jpg",
+    "static/media/12.jpg": "/gsgunauka/static/media/12.ae546267abe72f83c4bb.jpg",
     "static/media/contacts.jpg": "/gsgunauka/static/media/contacts.bc6531edf78eba6f09d4.jpg",
     "static/media/leftsideimg.jpg": "/gsgunauka/static/media/leftsideimg.8d41f132d47042f9f4da.jpg",
     "index.html": "/gsgunauka/index.html",
     "main.1cd70955.css.map": "/gsgunauka/static/css/main.1cd70955.css.map",
-    "main.5f475fd7.js.map": "/gsgunauka/static/js/main.5f475fd7.js.map"
+    "main.5a873a56.js.map": "/gsgunauka/static/js/main.5a873a56.js.map"
   },
   "entrypoints": [
     "static/css/main.1cd70955.css",
-    "static/js/main.5f475fd7.js"
+    "static/js/main.5a873a56.js"
   ]
 }
