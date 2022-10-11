@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/gsgunauka/static/css/main.1cd70955.css",
-    "main.js": "/gsgunauka/static/js/main.5a873a56.js",
+    "main.css": "/gsgunauka/static/css/main.6a2a8d72.css",
+    "main.js": "/gsgunauka/static/js/main.e9674ebc.js",
     "static/media/main-nauka-4.jpg": "/gsgunauka/static/media/main-nauka-4.97dc0a2852c2485c0c10.jpg",
     "static/media/main-nauka-6.jpg": "/gsgunauka/static/media/main-nauka-6.acd3bf8c078456b89579.jpg",
     "static/media/main-nauka-8.jpg": "/gsgunauka/static/media/main-nauka-8.8a13d2a0a7275e76e527.jpg",
@@ -43,12 +43,14 @@
     "static/media/12.jpg": "/gsgunauka/static/media/12.ae546267abe72f83c4bb.jpg",
     "static/media/contacts.jpg": "/gsgunauka/static/media/contacts.bc6531edf78eba6f09d4.jpg",
     "static/media/leftsideimg.jpg": "/gsgunauka/static/media/leftsideimg.8d41f132d47042f9f4da.jpg",
+    "static/media/qr-vk.svg": "/gsgunauka/static/media/qr-vk.e92644802c9b49494cbfb004b710a608.svg",
+    "static/media/qr-tg.svg": "/gsgunauka/static/media/qr-tg.de362359674d2d570f085de0d5d3086b.svg",
     "index.html": "/gsgunauka/index.html",
-    "main.1cd70955.css.map": "/gsgunauka/static/css/main.1cd70955.css.map",
-    "main.5a873a56.js.map": "/gsgunauka/static/js/main.5a873a56.js.map"
+    "main.6a2a8d72.css.map": "/gsgunauka/static/css/main.6a2a8d72.css.map",
+    "main.e9674ebc.js.map": "/gsgunauka/static/js/main.e9674ebc.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cd70955.css",
-    "static/js/main.5a873a56.js"
+    "static/css/main.6a2a8d72.css",
+    "static/js/main.e9674ebc.js"
   ]
 }
