@@ -1,16 +1,23 @@
 import React from 'react';
 // import Swiper core and required modules
-import { Navigation, Pagination, A11y, Autoplay } from 'swiper';
+import { A11y, Autoplay, Navigation, Pagination } from 'swiper';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles
 import 'swiper/css';
+import 'swiper/css/autoplay';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
-import 'swiper/css/autoplay';
 
 import img1 from '../img/Achievements/1.jpg';
+import img10 from '../img/Achievements/10.jpg';
+import img11 from '../img/Achievements/11.jpg';
+import img12 from '../img/Achievements/12.jpg';
+import img13 from '../img/Achievements/13.jpg';
+import img14 from '../img/Achievements/14.jpg';
+import img15 from '../img/Achievements/15.jpg';
+import img16 from '../img/Achievements/16.jpg';
 import img2 from '../img/Achievements/2.jpg';
 import img3 from '../img/Achievements/3.jpg';
 import img4 from '../img/Achievements/4.jpg';
@@ -19,18 +26,6 @@ import img6 from '../img/Achievements/6.jpg';
 import img7 from '../img/Achievements/7.jpg';
 import img8 from '../img/Achievements/8.jpg';
 import img9 from '../img/Achievements/9.jpg';
-import img10 from '../img/Achievements/10.jpg';
-import img11 from '../img/Achievements/11.jpg';
-import img12 from '../img/Achievements/12.jpg';
-import img13 from '../img/Achievements/13.jpg';
-import img14 from '../img/Achievements/14.jpg';
-import img15 from '../img/Achievements/15.jpg';
-import img16 from '../img/Achievements/16.jpg';
-import img17 from '../img/Achievements/17.jpg';
-import img18 from '../img/Achievements/18.jpg';
-import img19 from '../img/Achievements/19.jpg';
-import img20 from '../img/Achievements/20.jpg';
-import img21 from '../img/Achievements/21.jpg';
 
 function Achievements() {
   return (
@@ -98,21 +93,6 @@ function Achievements() {
         </SwiperSlide>
         <SwiperSlide>
           <img src={img16} alt='img16' className='slide' />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={img17} alt='img17' className='slide' />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={img18} alt='img18' className='slide' />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={img19} alt='img19' className='slide' />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={img20} alt='img20' className='slide' />
-        </SwiperSlide>
-        <SwiperSlide>
-          <img src={img21} alt='img21' className='slide' />
         </SwiperSlide>
       </Swiper>
     </div>
