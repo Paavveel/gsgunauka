@@ -14,7 +14,7 @@ import img1 from '../img/Naukaschools/Викторович.jpg';
 import img2 from '../img/Naukaschools/Лексин 2.jpg';
 import img3 from '../img/Naukaschools/Мазуров 2.jpg';
 import img4 from '../img/Naukaschools/Педагогика и психология.jpg';
-import img5 from '../img/Naukaschools/Прокудин.jpg';
+import img5 from '../img/Naukaschools/Физическая культура и спорт.jpg';
 import img6 from '../img/Naukaschools/Рязанцев.jpg';
 import img7 from '../img/Naukaschools/Экономика Столярова.jpg';
 

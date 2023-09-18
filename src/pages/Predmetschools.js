@@ -42,8 +42,8 @@ function Predmetschools() {
           <a href='https://disk.yandex.ru/i/LoPHoqh9lRuoag'>
             Творческая мастерская Палитра
           </a>
-          <a href='https://disk.yandex.ru/i/s5MLbRIuUIXa-A'>
-            Школа юного гимнаста
+          <a href='https://disk.yandex.ru/i/ICVoN8HNUMCelA'>
+            Школа начинающего гимнаста
           </a>
           <a href='https://disk.yandex.ru/i/aAOiu6KJvn7NEA'>
             Школа юного ученого Данко
