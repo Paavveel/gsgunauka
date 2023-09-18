@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/gsgunauka/static/css/main.4b2af559.css",
-    "main.js": "/gsgunauka/static/js/main.d6312628.js",
+    "main.js": "/gsgunauka/static/js/main.28fe3cc9.js",
     "static/media/12.jpg": "/gsgunauka/static/media/12.399d53b38c9aa603873c.jpg",
     "static/media/gsgu-logo.png": "/gsgunauka/static/media/gsgu-logo.6c13ad215bb4c18d3ca1.png",
-    "static/media/vestnik.jpg": "/gsgunauka/static/media/vestnik.bbaaaa1f5b249f34fcad.jpg",
     "static/media/Педагогика и психология.jpg": "/gsgunauka/static/media/Педагогика и психология.a8910f7b1e1277c8127f.jpg",
     "static/media/Мазуров 2.jpg": "/gsgunauka/static/media/Мазуров 2.fb40202693db0a978345.jpg",
     "static/media/3.jpg": "/gsgunauka/static/media/3.5c555bf9290679851dd2.jpg",
+    "static/media/vestnik.jpg": "/gsgunauka/static/media/vestnik.4981fe2f9cc31d63b280.jpg",
     "static/media/16.jpg": "/gsgunauka/static/media/16.2a62428e7d168299f3a6.jpg",
     "static/media/nachalo.jpg": "/gsgunauka/static/media/nachalo.ce5180b6117732c9a79b.jpg",
+    "static/media/Физическая культура и спорт.jpg": "/gsgunauka/static/media/Физическая культура и спорт.69e02ea09ae93de633fb.jpg",
     "static/media/Лексин 2.jpg": "/gsgunauka/static/media/Лексин 2.2d0d0dae3c11c14d318f.jpg",
     "static/media/17.jpg": "/gsgunauka/static/media/17.5ca65b3cd63bb57e53ca.jpg",
     "static/media/Экономика Столярова.jpg": "/gsgunauka/static/media/Экономика Столярова.6196cd6f978459026561.jpg",
@@ -23,22 +24,21 @@
     "static/media/5.jpg": "/gsgunauka/static/media/5.e46959d4541278d27410.jpg",
     "static/media/7.jpg": "/gsgunauka/static/media/7.85fd436bae06ba91e1ef.jpg",
     "static/media/11.jpg": "/gsgunauka/static/media/11.69ed5d385ff9a12be9db.jpg",
-    "static/media/Прокудин.jpg": "/gsgunauka/static/media/Прокудин.4a2b8ac8eda8b66185eb.jpg",
     "static/media/14.jpg": "/gsgunauka/static/media/14.38cae3cf072bda833e4a.jpg",
     "static/media/Викторович.jpg": "/gsgunauka/static/media/Викторович.b1d22d6740eae1418405.jpg",
     "static/media/15.jpg": "/gsgunauka/static/media/15.202e99e7c4c57aacb8e0.jpg",
     "static/media/13.jpg": "/gsgunauka/static/media/13.e6d3372df225f0376618.jpg",
-    "static/media/contacts.jpg": "/gsgunauka/static/media/contacts.de97cab4ffd84a5835a1.jpg",
+    "static/media/contacts.jpg": "/gsgunauka/static/media/contacts.2c17a44228f5e8ea3448.jpg",
     "static/media/2.jpg": "/gsgunauka/static/media/2.2486083844e2736b1630.jpg",
     "static/media/leftsideimg.jpg": "/gsgunauka/static/media/leftsideimg.8d41f132d47042f9f4da.jpg",
     "static/media/qr-vk.svg": "/gsgunauka/static/media/qr-vk.e92644802c9b49494cbfb004b710a608.svg",
     "static/media/qr-tg.svg": "/gsgunauka/static/media/qr-tg.de362359674d2d570f085de0d5d3086b.svg",
     "index.html": "/gsgunauka/index.html",
     "main.4b2af559.css.map": "/gsgunauka/static/css/main.4b2af559.css.map",
-    "main.d6312628.js.map": "/gsgunauka/static/js/main.d6312628.js.map"
+    "main.28fe3cc9.js.map": "/gsgunauka/static/js/main.28fe3cc9.js.map"
   },
   "entrypoints": [
     "static/css/main.4b2af559.css",
-    "static/js/main.d6312628.js"
+    "static/js/main.28fe3cc9.js"
   ]
 }
