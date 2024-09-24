@@ -314,9 +314,6 @@ function Achievements() {
         <SwiperSlide>
           <img src={img71} alt="img71" className="slide" />
         </SwiperSlide>
-        <SwiperSlide>
-          <img src={img72} alt="img72" className="slide" />
-        </SwiperSlide>
       </Swiper>
     </div>
   );
