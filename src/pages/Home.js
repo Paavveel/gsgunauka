@@ -1,32 +1,32 @@
-import React from 'react';
+import React from "react";
 // import Swiper core and required modules
-import { A11y, Autoplay, Navigation, Pagination } from 'swiper';
+import { A11y, Autoplay, Navigation, Pagination } from "swiper";
 
-import { Swiper, SwiperSlide } from 'swiper/react';
+import { Swiper, SwiperSlide } from "swiper/react";
 
 // Import Swiper styles
-import 'swiper/css';
-import 'swiper/css/autoplay';
-import 'swiper/css/navigation';
-import 'swiper/css/pagination';
+import "swiper/css";
+import "swiper/css/autoplay";
+import "swiper/css/navigation";
+import "swiper/css/pagination";
 
-import main1 from '../img/main/1.jpg';
-import main10 from '../img/main/10.jpg';
-import main11 from '../img/main/11.jpg';
-import main12 from '../img/main/12.jpg';
-import main13 from '../img/main/13.jpg';
-import main14 from '../img/main/14.jpg';
-import main15 from '../img/main/15.jpg';
-import main16 from '../img/main/16.jpg';
-import main17 from '../img/main/17.jpg';
-import main2 from '../img/main/2.jpg';
-import main3 from '../img/main/3.jpg';
-import main4 from '../img/main/4.jpg';
-import main5 from '../img/main/5.jpg';
-import main6 from '../img/main/6.jpg';
-import main7 from '../img/main/7.jpg';
-import main8 from '../img/main/8.jpg';
-import main9 from '../img/main/9.jpg';
+import main1 from "../img/main/1.jpg";
+import main2 from "../img/main/2.jpg";
+import main3 from "../img/main/3.jpg";
+import main4 from "../img/main/4.jpg";
+import main5 from "../img/main/5.jpg";
+import main6 from "../img/main/6.jpg";
+import main7 from "../img/main/7.jpg";
+import main8 from "../img/main/8.jpg";
+import main9 from "../img/main/9.jpg";
+import main10 from "../img/main/10.jpg";
+import main11 from "../img/main/11.jpg";
+import main12 from "../img/main/12.jpg";
+import main13 from "../img/main/13.jpg";
+import main14 from "../img/main/14.jpg";
+import main15 from "../img/main/15.jpg";
+import main16 from "../img/main/16.jpg";
+import main17 from "../img/main/17.jpg";
 
 const images = [
   main1,
@@ -50,7 +50,7 @@ const images = [
 
 function Home() {
   return (
-    <div className='main-page'>
+    <div className="main-page">
       <Swiper
         // install Swiper modules
         modules={[Navigation, Pagination, Autoplay, A11y]}
@@ -64,12 +64,12 @@ function Home() {
         spaceBetween={30}
         navigation={true}
         pagination={{
-          type: 'fraction',
+          type: "fraction",
         }}
       >
         {images?.map((img, i) => (
           <SwiperSlide>
-            <img src={img} alt={`main-img-${i + 1}`} className='slide' />
+            <img src={img} alt={`main-img-${i + 1}`} className="slide" />
           </SwiperSlide>
         ))}
       </Swiper>
