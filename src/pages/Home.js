@@ -27,6 +27,20 @@ import main14 from "../img/main/14.jpg";
 import main15 from "../img/main/15.jpg";
 import main16 from "../img/main/16.jpg";
 import main17 from "../img/main/17.jpg";
+import main18 from "../img/main/18.jpg";
+import main19 from "../img/main/19.jpg";
+import main20 from "../img/main/20.jpg";
+import main21 from "../img/main/21.jpg";
+import main22 from "../img/main/22.jpg";
+import main23 from "../img/main/23.jpg";
+import main24 from "../img/main/24.jpg";
+import main25 from "../img/main/25.jpg";
+import main26 from "../img/main/26.jpg";
+import main27 from "../img/main/27.jpg";
+import main28 from "../img/main/28.jpg";
+import main29 from "../img/main/29.jpg";
+import main30 from "../img/main/30.jpg";
+import main31 from "../img/main/31.jpg";
 
 const images = [
   main1,
@@ -46,6 +60,20 @@ const images = [
   main15,
   main16,
   main17,
+  main18,
+  main19,
+  main20,
+  main21,
+  main22,
+  main23,
+  main24,
+  main25,
+  main26,
+  main27,
+  main28,
+  main29,
+  main30,
+  main31,
 ];
 
 function Home() {
