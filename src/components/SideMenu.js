@@ -7,8 +7,8 @@ function SideMenu() {
   return (
     <div className="main-sidemenu">
       <div className="main-nav">
-        <NavLink to="achievements">Ученые ГСГУ</NavLink>
-        <NavLink to="/">Научная жизнь</NavLink>
+        <NavLink to="/">Ученые ГСГУ</NavLink>
+        <NavLink to="achievements">Научная жизнь</NavLink>
         <NavLink to="naukaschools">Научные школы</NavLink>
         {/* <NavLink to='events'>Мероприятия</NavLink> */}
         <NavLink to="publication">Издания</NavLink>
