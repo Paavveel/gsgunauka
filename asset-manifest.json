@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gsgunauka/static/css/main.7fa5de19.css",
-    "main.js": "/gsgunauka/static/js/main.d64a2edf.js",
+    "main.js": "/gsgunauka/static/js/main.a6dea166.js",
     "static/media/Столярова.jpg": "/gsgunauka/static/media/Столярова.cafaf38f60da4799255f.jpg",
     "static/media/58.jpg": "/gsgunauka/static/media/58.106b249ab457e57a1047.jpg",
     "static/media/contacts.jpg": "/gsgunauka/static/media/contacts.49845f6bc9b060981cee.jpg",
@@ -89,10 +89,10 @@
     "static/media/qr-tg.svg": "/gsgunauka/static/media/qr-tg.de362359674d2d570f085de0d5d3086b.svg",
     "index.html": "/gsgunauka/index.html",
     "main.7fa5de19.css.map": "/gsgunauka/static/css/main.7fa5de19.css.map",
-    "main.d64a2edf.js.map": "/gsgunauka/static/js/main.d64a2edf.js.map"
+    "main.a6dea166.js.map": "/gsgunauka/static/js/main.a6dea166.js.map"
   },
   "entrypoints": [
     "static/css/main.7fa5de19.css",
-    "static/js/main.d64a2edf.js"
+    "static/js/main.a6dea166.js"
   ]
 }
