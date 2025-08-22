@@ -76,7 +76,7 @@ const images = [
   main31,
 ];
 
-function Home() {
+function Achievements() {
   return (
     <div className="main-page">
       <Swiper
@@ -105,4 +105,4 @@ function Home() {
   );
 }
 
-export default Home;
+export default Achievements;

@@ -13,6 +13,7 @@ import Achievements from './pages/Achievements';
 import Contacts from './pages/Contacts';
 import Layout from './Layout';
 import NotFound from './pages/NotFound';
+import Scientists from './pages/Scientists';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Route path='/' element={<Layout />}>
         <Route index element={<Home />} />
         <Route path='naukaschools' element={<Naukaschools />} />
+        <Route path='scientists' element={<Scientists />} />
         <Route path='events' element={<Events />} />
         <Route path='publication' element={<Publication />} />
         <Route path='predmetschools' element={<Predmetschools />} />
